@@ -1,0 +1,16 @@
+{
+  "name": "cypress-parameterization-data-driven",
+  "version": "1.0.0",
+  "description": "data driven test in  cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "author": "sumant kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.4",
+    "faker": "^5.5.3"
+  }
+}
